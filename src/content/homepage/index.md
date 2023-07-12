@@ -142,19 +142,19 @@ benifits:
     description: 9 out of 10 customers want to use messaging to communicate with businesses
     image: "/images/how-it-work/real-data.png"
 feature_service:
-    title: Accept payments from devices any country in this universe
-    description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    title: Explore how Chathawk's AI chatbox can revolutionize your business! 
+    description: Are you tired of spending valuable time answering questions about store hours, appointments, and pricing? 
     image: "/images/features/feature-img-1.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
+      - Improved Customer Service
+      - Increased Efficiency and Cost Savings
+      - Enhanced User Experience
     buttons:
       # - label: Download The Theme
       #   link: "https://themefisher.com/astro-themes/pinwheel-astro"
       #   enable: true
       - label: Learn More
-        link: "#"
+        link: "/features"
         outline: true
         enable: true
 ---
