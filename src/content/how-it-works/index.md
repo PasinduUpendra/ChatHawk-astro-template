@@ -1,6 +1,6 @@
 ---
 title: How It Works
-page_title: our structured approach helps you navigate uncertainties
+page_title: ChatHawk enhances the customer experience at every stage with intelligent features.
 
 
 # perfomance

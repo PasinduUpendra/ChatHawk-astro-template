@@ -1,10 +1,10 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Propel your business to new heights with ChatHawks custom AI chatbot!"
+  content: "ChatHawk Convert website visitors into sales with a custom chatbot dedicated to answering common questions and more!"
   image: /images/banner-img.png
   button:
-    label: Download The Theme
+    label: Book A Demo
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
@@ -128,4 +128,33 @@ testimonial:
       organization: meta limited
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+benifits:
+  title: How It Works
+  page_title: our structured approach helps you navigate uncertainties
+  perfomance:
+  - title: Sales
+    description: Increase Sales Boost sales and appointment conversion rates with increased engagement from website visitors
+    image: "/images/how-it-work/sales.png"
+  - title: Productivity
+    description: Successful businesses minimize redundant tasks to increase team productivity
+    image: "/images/how-it-work/productivity.png"
+  - title: Real Data
+    description: 9 out of 10 customers want to use messaging to communicate with businesses
+    image: "/images/how-it-work/real-data.png"
+feature_service:
+    title: Accept payments from devices any country in this universe
+    description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    image: "/images/features/feature-img-1.png"
+    list:
+      - Supporting more than 119 country world
+      - Open transaction with more than currencies
+      - Customer Service with 79 languages
+    buttons:
+      # - label: Download The Theme
+      #   link: "https://themefisher.com/astro-themes/pinwheel-astro"
+      #   enable: true
+      - label: Learn More
+        link: "#"
+        outline: true
+        enable: true
 ---
