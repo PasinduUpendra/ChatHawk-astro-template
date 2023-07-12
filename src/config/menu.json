@@ -5,16 +5,28 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Industries",
+      "url": "/"
     },
     {
       "name": "Features",
       "url": "/features"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "FAQs",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
     },
     {
       "name": "How It Works",
@@ -57,10 +69,6 @@
           "url": "/terms-and-conditions"
         }
       ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
   ],
 
