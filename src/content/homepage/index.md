@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Propel your business to new heights with ChatHawks custom AI chatbot!"
+  content: "Convert website visitors into sales with a custom chatbot dedicated to answering common questions and more."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Book Your Demo
+    link: "#"
     enable: true
 
 ##key features
