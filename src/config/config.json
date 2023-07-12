@@ -4,11 +4,11 @@
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "147",
-    "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "favicon": "/images/siteicon.png",
+    "logo": "/images/hawk_logo.png",
+    "logo_width": "137",
+    "logo_height": "41",
+    "logo_text": "Chat Hawk"
   },
 
   "settings": {

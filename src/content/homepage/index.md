@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Propel your business to new heights with ChatHawks custom AI chatbot!"
+  title: "Propel your business to new heights with AI chatbot!"
   content: "Convert website visitors into sales with a custom chatbot dedicated to answering common questions and more."
   image: /images/banner-img.png
   button:

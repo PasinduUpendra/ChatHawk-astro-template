@@ -5,19 +5,19 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Industries",
+      "url": "#"
     },
     {
       "name": "Features",
+      "url": "/blog"
+    },
+    {
+      "name": "FAQs",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "About",
       "url": "/how-it-works"
     },
     {
