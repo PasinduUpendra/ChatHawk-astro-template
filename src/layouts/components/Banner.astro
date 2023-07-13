@@ -3,10 +3,11 @@ import { markdownify } from "@lib/utils/textConverter";
 import { Image } from "@astrojs/image/components";
 const { banner } = Astro.props;
 const { title, button, image, content } = banner;
+
 ---
 
-<section class="section banner relative">
-  <div class="container">
+<section class="section banner relative" id="vanta-animation">
+  <div class="container your-element-selector">
     <div class="row items-center">
       <div class="lg:col-6">
         <h1 class="banner-title" set:html={markdownify(title)} />
@@ -22,6 +23,8 @@ const { title, button, image, content } = banner;
         }
       </div>
       <div class="lg:col-6">
+        <!-- <VantaAnimation/> -->
+
         <Image
           class="w-full object-contain"
           alt="banner"
@@ -33,11 +36,11 @@ const { title, button, image, content } = banner;
     </div>
   </div>
 
-  <Image
+  <!-- <Image
     class="banner-shape absolute -top-28 right-0 -z-[1] w-full max-w-[30%]"
     alt="banner"
     src="/images/banner-shape.png"
     width={496}
     height={466}
-  />
+  /> -->
 </section>
