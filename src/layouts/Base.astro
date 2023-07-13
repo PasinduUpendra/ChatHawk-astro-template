@@ -138,13 +138,37 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+    <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"
+    ></script>
+    <script is:inline src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.dots.min.js"
+    ></script>
+    <script>
+      VANTA.DOTS({
+        el: "#vanta-animation",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color2: 0xfafafa,
+        backgroundColor: 0xfafafa
+      })
+      </script>
+    <!-- <script>
+      VANTA.WAVES("#my-background");
+    </script> -->
   </head>
   <body>
     <TwSizeIndicator />
-    <Header />
+    <div>
+      <Header />
     <main id="main-content">
       <slot />
     </main>
     <Footer />
+    </div>
+    
   </body>
 </html>
