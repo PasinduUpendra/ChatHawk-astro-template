@@ -1,6 +1,6 @@
 ---
-title: "About"
-page_title: "About our company"
+title: "Education"
+page_title: "Education"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -40,28 +40,42 @@ gallery:
 
 ## our works
 features:
-  title: Our Supporting Industries
+  title: "Unveiling ChatHawk's enticing offerings!"
   button:
     label: Book A Demo
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Simplify the recruitment process 
+      content: Answer common questions regarding the application process to attend your school
       image: "/images/users/user-1.png"
       list:
       - Improved Customer Service
       - Increased Efficiency and Cost Savings
       - Enhanced User Experience
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: 24/7 availability 
+      content: Parents often have questions occurring outside of business hours. ChatHawks AI chatbot can answer questions at anytime!
       image: "/images/users/user-2.png"
       list:
       - Improved Customer Service
       - Increased Efficiency and Cost Savings
       - Enhanced User Experience
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Help your students achieve success 
+      content: Improve student satisfaction by providing resources to ease their education journey 
+      image: "/images/users/user-1.png"
+      list:
+      - Improved Customer Service
+      - Increased Efficiency and Cost Savings
+      - Enhanced User Experience
+    - title: Multilingual support 
+      content: Assist families in different languages 
+      image: "/images/users/user-1.png"
+      list:
+      - Improved Customer Service
+      - Increased Efficiency and Cost Savings
+      - Enhanced User Experience
+    - title: Lead generation 
+      content: Capture visitors data to convert into sales
       image: "/images/users/user-1.png"
       list:
       - Improved Customer Service
@@ -93,4 +107,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Has your school spent unnecessary time answering phone calls and emails regarding admissions and general school questions?

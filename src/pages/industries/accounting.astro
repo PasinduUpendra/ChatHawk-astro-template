@@ -6,7 +6,7 @@ import Works from "@components/industries/Works.astro";
 import Base from "@layouts/Base.astro";
 import { getEntryBySlug } from "astro:content";
 
-const about = await getEntryBySlug("industries", "index");
+const about = await getEntryBySlug("industries", "accounting");
 const { gallery, features } = about.data;
 const page_data = {
   ...about.data,

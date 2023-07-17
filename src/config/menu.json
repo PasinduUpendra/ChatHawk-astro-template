@@ -6,7 +6,26 @@
     },
     {
       "name": "Industries",
-      "url": "/industries"
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Education",
+          "url": "/industries/education"
+        },
+        {
+          "name": "Real Estate",
+          "url": "/industries/real-estate"
+        },
+        {
+          "name": "Restaurants",
+          "url": "/industries/restaurants"
+        },
+        {
+          "name": "Accounting",
+          "url": "/industries/accounting"
+        }
+      ]
     },
     {
       "name": "Features",
