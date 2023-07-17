@@ -32,30 +32,34 @@
       "url": "/features"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Pricing",
+      "url": "/pricing"
     },
     {
       "name": "FAQs",
-      "url": "/about"
+      "url": "/faq"
     },
     {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
-    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "How It Works",
+          "url": "/how-it-works"
+        },
         {
           "name": "Career",
           "url": "/career"
