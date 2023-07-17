@@ -1,6 +1,6 @@
 ---
 title: How It Works
-page_title: ChatHawk enhances the customer experience at every stage with intelligent features.
+page_title: ChatHawk enhances the customer experience at every stage using artificial intelligence.
 
 
 # perfomance
@@ -35,4 +35,4 @@ our_works:
       - Open transaction with more than currencies
       - Customer Service with 79 languages
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque <br /> nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.Lorem
+<!-- Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque <br /> nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.Lorem -->

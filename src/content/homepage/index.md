@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Propel your business to new heights with AI chatbot!"
-  content: "ChatHawk Convert website visitors into sales with a custom chatbot dedicated to answering common questions and more!"
+  title: "Grow your business with a custom AI chatbot!"
+  content: "Convert your website visitors into sales with a custom chatbot dedicated to answering common questions and more! "
   image: /images/banner-img.png
   button:
     label: Book A Demo
@@ -133,7 +133,7 @@ benifits:
   page_title: our structured approach helps you navigate uncertainties
   perfomance:
   - title: Sales
-    description: Increase Sales Boost sales and appointment conversion rates with increased engagement from website visitors
+    description: Increase sales and appointment conversion rates from more engagement from website visitors
     image: "/images/how-it-work/sales.png"
   - title: Productivity
     description: Successful businesses minimize redundant tasks to increase team productivity
@@ -142,8 +142,8 @@ benifits:
     description: 9 out of 10 customers want to use messaging to communicate with businesses
     image: "/images/how-it-work/real-data.png"
 feature_service:
-    title: Explore how Chathawk's AI chatbox can revolutionize your business! 
-    description: Are you tired of spending valuable time answering questions about store hours, appointments, and pricing? 
+    title: Explore how ChatHawk's AI chatbox can revolutionize your business!
+    # description: Are you tired of spending valuable time answering questions about store hours, appointments, and pricing? 
     image: "/images/features/feature-img-1.png"
     list:
       - Improved Customer Service
