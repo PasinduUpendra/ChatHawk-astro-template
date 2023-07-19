@@ -30,9 +30,9 @@ module.exports = {
     screens: {
       sm: "576px",
       md: "768px",
-      lg: "992px",
-      xl: "1200px",
-      "2xl": "1400px",
+      lg: "768px",
+      xl: "768px",
+      "2xl": "768px",
     },
     container: {
       center: true,

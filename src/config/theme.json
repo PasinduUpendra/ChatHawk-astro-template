@@ -2,7 +2,7 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#FFB700",
+        "primary": "#ffb700",
         "secondary": "#FEE140",
         "body": "#fafafa",
         "border": "#EBEBEB",

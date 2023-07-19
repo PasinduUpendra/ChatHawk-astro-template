@@ -6,25 +6,60 @@
     },
     {
       "name": "Industries",
-      "url": "#"
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Education",
+          "url": "/industries/education"
+        },
+        {
+          "name": "Real Estate",
+          "url": "/industries/real-estate"
+        },
+        {
+          "name": "Restaurants",
+          "url": "/industries/restaurants"
+        },
+        {
+          "name": "Accounting",
+          "url": "/industries/accounting"
+        }
+      ]
     },
     {
       "name": "Features",
-      "url": "/blog"
-    },
-    {
-      "name": "FAQs",
       "url": "/features"
     },
     {
-      "name": "About",
-      "url": "/how-it-works"
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "name": "FAQs",
+      "url": "/faq"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     },
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "How It Works",
+          "url": "/how-it-works"
+        },
         {
           "name": "Career",
           "url": "/career"
@@ -57,10 +92,6 @@
           "url": "/terms-and-conditions"
         }
       ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
   ],
 

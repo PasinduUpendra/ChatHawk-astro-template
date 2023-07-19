@@ -4,6 +4,7 @@ import Shape from "@components/Shape.astro";
 import Base from "@layouts/Base.astro";
 import Faq from "@layouts/function-components/Faq.jsx";
 import PricingCard from "@layouts/function-components/PricingCard.jsx";
+import Cta from "@partials/Cta.astro";
 import { getEntryBySlug } from "astro:content";
 
 const pricing = await getEntryBySlug("pricing", "index");
@@ -28,7 +29,7 @@ const page_data = {
   <!-- pricing -->
   <section class="section mt-12 pt-0">
     <div class="container">
-      <div class="row lg:px-10">
+      <div class="row justify-center lg:px-10">
         {
           pricing.data.pricing_card.map((item: any, i: number) => (
             <PricingCard item={item} client:load />
@@ -37,5 +38,6 @@ const page_data = {
       </div>
     </div>
   </section>
-  <Faq client:load data={pricing.data} />
+  <Cta />
+  <!-- <Faq client:load data={pricing.data} /> -->
 </Base>

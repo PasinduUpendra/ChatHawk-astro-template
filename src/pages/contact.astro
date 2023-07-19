@@ -3,6 +3,7 @@ import { Image } from "@astrojs/image/components";
 import PageHeader from "@components/PageHeader.astro";
 import config from "@config/config.json";
 import Base from "@layouts/Base.astro";
+import { ContactUs } from "@layouts/function-components/ContactUs";
 import { getEntryBySlug } from "astro:content";
 
 const entry = await getEntryBySlug("contact", "index");
@@ -12,6 +13,20 @@ const page_data = {
   ...contact,
   content: contact.body,
 };
+
+if (Astro.request.method === "POST") {
+  try {
+    const data = await Astro.request.formData();
+    const name = data.get("username");
+    const email = data.get("email");
+    const password = data.get("password");
+    // Do something with the data
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error(error.message);
+    }
+  }
+}
 ---
 
 <Base
@@ -32,7 +47,7 @@ const page_data = {
             <Image
               src="/images/contact-img.png"
               height={544}
-              width={500}
+              width={544}
               alt=""
             />
             <Image
@@ -45,7 +60,8 @@ const page_data = {
           </div>
         </div>
         <div class="md:col-6 md:order-1">
-          <form
+          <ContactUs client:visible />
+          <!-- <form
             class="lg:max-w-[484px]"
             action={contact_form_action}
             method="POST"
@@ -90,7 +106,7 @@ const page_data = {
               type="submit"
               value="Send Message"
             />
-          </form>
+          </form> -->
         </div>
       </div>
     </div>

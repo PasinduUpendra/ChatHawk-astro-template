@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Propel your business to new heights with AI chatbot!"
-  content: "Convert website visitors into sales with a custom chatbot dedicated to answering common questions and more."
+  title: "Grow your business with a custom AI chatbot!"
+  content: "Convert your website visitors into sales with a custom chatbot dedicated to answering common questions and more! "
   image: /images/banner-img.png
   button:
-    label: Book Your Demo
-    link: "#"
+    label: Book A Demo
+    link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
 ##key features
@@ -128,4 +128,33 @@ testimonial:
       organization: meta limited
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+benifits:
+  title: How It Works
+  page_title: our structured approach helps you navigate uncertainties
+  perfomance:
+  - title: Sales
+    description: Increase sales and appointment conversion rates from more engagement from website visitors
+    image: "/images/how-it-work/sales.png"
+  - title: Productivity
+    description: Successful businesses minimize redundant tasks to increase team productivity
+    image: "/images/how-it-work/productivity.png"
+  - title: Real Data
+    description: 9 out of 10 customers want to use messaging to communicate with businesses
+    image: "/images/how-it-work/real-data.png"
+feature_service:
+    title: Explore how ChatHawk's AI chatbox can revolutionize your business!
+    # description: Are you tired of spending valuable time answering questions about store hours, appointments, and pricing? 
+    image: "/images/features/feature-img-1.png"
+    list:
+      - Improved Customer Service
+      - Increased Efficiency and Cost Savings
+      - Enhanced User Experience
+    buttons:
+      # - label: Download The Theme
+      #   link: "https://themefisher.com/astro-themes/pinwheel-astro"
+      #   enable: true
+      - label: Learn More
+        link: "/features"
+        outline: true
+        enable: true
 ---
