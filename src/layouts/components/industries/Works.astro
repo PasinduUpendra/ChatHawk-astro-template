@@ -15,7 +15,23 @@ const {
       {
         button.enable && (
           <div class="mt-6 text-center md:col-3 md:mt-0 md:text-right">
-            <a class="btn btn-outline-primary" href={button.link}>
+            <link
+              href="https://assets.calendly.com/assets/external/widget.css"
+              rel="stylesheet"
+            />
+            <script
+              src="https://assets.calendly.com/assets/external/widget.js"
+              type="text/javascript"
+              async
+            />
+
+            <a
+              class="btn btn-outline-primary"
+              href=""
+              onclick="
+              Calendly.initPopupWidget({ url: 'https://calendly.com/chathawk' }); return false;
+              "
+            >
               {button.label}
             </a>
           </div>

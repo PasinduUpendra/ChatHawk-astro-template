@@ -3,6 +3,7 @@ import { BsPinAngleFill } from "react-icons/bs/index.js";
 import { humanize } from "@lib/utils/textConverter";
 import * as Icon from "react-feather";
 
+
 const PricingCard = ({ item }) => {
   const FeatherIcon = Icon[humanize(item.icon)];
   return (
@@ -15,9 +16,9 @@ const PricingCard = ({ item }) => {
         <div className="flex items-center justify-between">
           <div>
             <h2 className="h3">{item.title}</h2>
-            <p className="mt-3 text-2xl text-dark">
+            {/* <p className="mt-3 text-2xl text-dark">
               {item.pre_currency} {item.price}.00 {item.post_currency}
-            </p>
+            </p> */}
           </div>
           <span
             className={`inline-flex h-16 w-16 items-center justify-center rounded-full font-bold ${
@@ -49,11 +50,13 @@ const PricingCard = ({ item }) => {
           </ul>
         </div>
         <div className="text-center">
+        {/* <InlineWidget url="https://calendly.com/your_scheduling_page" /> */}
+
           <a
             className={`btn ${
               item.featured ? "btn-primary" : "btn-outline-white"
             } block h-[48px] w-full rounded-[50px] leading-[30px]`}
-            href={item.buttons.buy_now.link}
+            href="https://calendly.com/chathawk"
           >
             {item.buttons.buy_now.label}
           </a>

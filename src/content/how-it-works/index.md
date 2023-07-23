@@ -1,6 +1,6 @@
 ---
-title: How It Works
-page_title: ChatHawk enhances the customer experience at every stage using artificial intelligence.
+title: Features
+page_title: Explore the Wonders of Our Features!
 
 
 # perfomance
@@ -16,23 +16,41 @@ perfomance:
     image: "/images/how-it-work/awards.png"
 # works
 our_works:
-  - title: We'll do the legwork so you don't have to.
+  - title: AI-Powered Chatbot
     image: "/images/how-it-work/image-1.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: We'll do the legwork so you don't have to.
+      - Personalized User Experience
+      - Seamless Integration and Scalability
+      - Advanced Task Automation
+  - title: Knowledge Database
     image: "/images/how-it-work/image-2.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: Check out their profiles, reviews On.
+      - Instant Access to Information
+      - Consistent and Accurate Responses
+      - Reduced Support Costs
+  - title: Customizable Chatbot Design
     image: "/images/how-it-work/image-3.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
+      - Tailored User Experience
+      - Brand Consistency
+      - Enhanced User Engagement
+  - title: Appointment Scheduling
+    image: "/images/how-it-work/image-3.png"
+    list:
+      - 24/7 Availability
+      - Seamless Calendar Integration
+      - Reduced Workload for Staff
+  - title: Cloud Channel Integration (WhatsApp, Telegram, Messenger, Slack, Shopify)
+    image: "/images/how-it-work/image-3.png"
+    list:
+      - Extended Reach and User Accessibility
+      - Integration with Business Workflows
+      - Seamless Multi-Platform Experience
+  - title: Automations with Zapier
+    image: "/images/how-it-work/image-3.png"
+    list:
+      - Streamlined Workflows
+      - Expanded Functionality
+      - Scalability and Customization
 ---
 <!-- Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque <br /> nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.Lorem -->
